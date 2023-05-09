@@ -51,12 +51,17 @@ a:hover{
 }
 
 .cloud1{
+    width: 15%;
     position: absolute;
     right: 400px;
     top: 30px;    
 }
+.mountain{
+    width: 65%;
+}
 
 .cloud2{
+    width: 15%;
     position: absolute;
     left: 300px;
     bottom: 600px;
