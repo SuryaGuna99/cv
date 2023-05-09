@@ -1,0 +1,124 @@
+body{
+    background-color: #eaffdb;
+    margin: 0;
+    text-align: center;
+}
+h1{
+    font-family: 'Press Start 2P', sans-serif;
+    margin: 0 0 0 0;
+    font-size: 75px;
+    }
+h2{
+    color: #734444;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200%;
+}
+.fonts{
+    font-size: 130%;
+}
+p{
+    line-height: 2;
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 100%;
+    margin-bottom: 0;
+}
+hr{
+    border: dotted #AD8E70 10px;
+    width: 4%;
+    border-bottom: none;
+    margin: 50px auto 50px;
+}
+a{
+    font-family: 'Press Start 2P', sans-serif;
+    text-decoration: none;
+    color: #59a32a;
+    margin: 10px 20px;
+}
+a:hover{
+    color: #ffffff;
+}
+.top-container{
+    background-color:#B9E9FC;
+    position: relative;
+    padding-top: 150px;
+}
+.middle-container{
+    margin-bottom: 80px;
+}
+.profileimg{
+    margin: 60px auto 10px;
+    width: 15%;
+}
+
+.cloud1{
+    position: absolute;
+    right: 400px;
+    top: 30px;    
+}
+
+.cloud2{
+    position: absolute;
+    left: 300px;
+    bottom: 600px;
+    
+}
+.story{
+    width: 50%;
+    font-size: 18px;
+    margin: auto;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+.duckimg{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.swordimg{
+    width: 20%;
+    float: right;
+    margin-left: 30px                                                                                                                                                   ;
+}
+.contactmsg{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn {
+    background: #9c6f3b;
+    background-image: -webkit-linear-gradient(top, #9c6f3b, #59a32a);
+    background-image: -moz-linear-gradient(top, #9c6f3b, #59a32a);
+    background-image: -ms-linear-gradient(top, #9c6f3b, #59a32a);
+    background-image: -o-linear-gradient(top, #9c6f3b, #59a32a);
+    background-image: linear-gradient(to bottom, #9c6f3b, #59a32a);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Press Start 2P', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #59a32a;
+    background-image: -webkit-linear-gradient(top, #59a32a, #9c6f3b);
+    background-image: -moz-linear-gradient(top, #59a32a, #9c6f3b);
+    background-image: -ms-linear-gradient(top, #59a32a, #9c6f3b);
+    background-image: -o-linear-gradient(top, #59a32a, #9c6f3b);
+    background-image: linear-gradient(to bottom, #59a32a, #9c6f3b);
+    text-decoration: none;
+  }
+  .bottom-container{
+    background-color: #9c6f3b;
+    padding: 30px 0 0;
+  }
+  .copyright{
+    color: #ffffff;
+    font-size: 0.75rem;
+    padding: 10px auto;
+  }
